@@ -1,6 +1,6 @@
 # Hi, I'm Rob
 
-**Software Test Engineer.** I write test automation, and I like it to be stable, readable, and to look cool. I guess technically the latter is optional, but engineers need to learn that aesthetics are important. This page collects the live CI results, two test projects, and notes on how I work. Check out the live results to see the sort of test reporting you could share with any stakeholder or coworker.
+**Software Test Engineer.** I write test automation, and I like it to be stable and readable, have very clear failure logs, and to look cool. I guess technically the latter is optional, but engineers need to learn that aesthetics are important. This page collects the live CI results, two test projects, and notes on how I work. Check out the live results to see the sort of test reporting you could share with any stakeholder or coworker.
 
 ## Start here
 
