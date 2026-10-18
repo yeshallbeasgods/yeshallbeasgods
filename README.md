@@ -1,16 +1,16 @@
 # Hi, I'm Rob
 
-**Software Test Engineer.** I build test automation, and I care about whether its results can be trusted.
+**Software Test Engineer.** I write test automation, and I like it to be stable, readable, and to look cool. I guess technically the latter is optional, but engineers need to learn that aesthetics are important. This page collects the live CI results, two test projects, and notes on how I work. Check out the live results to see the sort of test reporting you could share with any stakeholder or coworker.
 
 ## Start here
 
-- **[Live test results](https://yeshallbeasgods.github.io/):** my projects run in CI and report to one page, so what you see is current.
-- **[How and why these are built](https://github.com/yeshallbeasgods/qa-portfolio):** the principles, the decisions, and how I work with AI agents.
+- **[Live test results](https://yeshallbeasgods.github.io/):** My projects run in CI and report to one page, so what you see is current.
+- **[How and why these are built](https://github.com/yeshallbeasgods/qa-portfolio):** The principles, the decisions, and how I work with AI agents.
 
 ## Featured
 
-- **[Playwright + TypeScript](https://github.com/yeshallbeasgods/universal-cloudless-thousandoaks):** UI and API tests in one runner, with an Allure report and trends. [Latest results](https://yeshallbeasgods.github.io/universal-cloudless-thousandoaks/).
-- **[Selenium + Python](https://github.com/yeshallbeasgods/ephemeral-blazing-berserker):** a custom utility library for Selenium, publishing results in the same shape. [Latest results](https://yeshallbeasgods.github.io/ephemeral-blazing-berserker/).
+- **[Playwright + TypeScript](https://github.com/yeshallbeasgods/universal-cloudless-thousandoaks):** UI and API tests in one runner with an Allure report and trends. [Latest results](https://yeshallbeasgods.github.io/universal-cloudless-thousandoaks/).
+- **[Selenium + Python](https://github.com/yeshallbeasgods/ephemeral-blazing-berserker):** A custom utility library for Selenium which publishes results in the same shape as the other repos. [Latest results](https://yeshallbeasgods.github.io/ephemeral-blazing-berserker/).
 
 ## Find me
 
